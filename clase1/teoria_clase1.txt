@@ -1,0 +1,42 @@
+Etiquetas de php
+<?php ?>
+---
+
+Función echo
+============
+
+Imprime (muestra) en el navegador
+ej: <?php echo "Hola mundo";?>
+
+en el navegador se verá:  Hola mundo  
+----
+
+Comentarios en php
+<?php //para una linea de texto ?>
+
+<?php /*para bloques grandes
+	de texto como este */ ?>
+---
+
+funcion date() 
+============
+
+date()
+Sirve para mostrar y formatear las fechas
+
+http://php.net/manual/es/function.date.php
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
