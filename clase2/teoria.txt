@@ -1,0 +1,90 @@
+
+
+TIPOS DE DATOS
+===============
+
+(url-teoría) http://php.net/manual/es/language.types.php
+
+
+ •número entero (integer)
+  -8.....-3,-2,-1,0,1,2,3....8+ 
+
+ •String (cadena de caracteres)
+ ej1: "hola mundo"
+ ej2: "tengo 3 hermanos"
+ ej3: "123456"
+ ej4: "contacto@gmail.com" 
+
+ • Booleano (true - false)
+ ej1:  true
+ ej2:  false
+
+ •Array o matriz (conjunto de datos)
+	
+  Denotación 1: array(5,"hola",false);
+  Denotación 2: [5,"hola",false];
+
+ ej1: [] //array vacio, el array existe pero no tiene datos
+ ej2: [' '] // array con un dato, es un espacio
+
+
+ •float (numérico con decimales)
+  ej1: 12.5
+  ej2: 20.25
+  ej3: 6.3333333333...
+  ej4: 15.6333333333...
+
+
+
+VARIABLES
+==========
+Toda variable comienza con el signo de dolar ($)
+no debe de comntener solo numero ($123)
+puede ser: $_hola, $edad5, etc.
+
+ejemplo:
+
+$edad = 25;
+$mentira = true;
+$pais = "Perú";
+
+
+
+
+OPERADORES 
+==========
+
++ suma  
+- resta 
+* multiplicación
+/ división
+
+++ aumenta en uno
+-- disminuye en uno
+
++= aumenta en: 
+-= disminuye en:
+
+ejemplos:
++=3 aumenta en 3
+-=5 dismunuye en 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,109 @@
+OPERADORES
+==========
+
+Concatenación (.)
+-----------------
+
+Ejemplo:  
+
+$nombre = "hola ";
+$mensaje = "buenos días";
+
+echo $nombre.$mensaje;
+
+
+Asignación (=)
+--------------
+
+ejemplo:
+
+$a = 6; // le asigno el valor de 6 a la variable $a;
+
+
+
+
+
+OPERADORES LÓGICOS
+==================
+
+DE COMPARACION
+----------------
+
+IGUAL    	==
+DESIGUAL	!=
+MAYOR   	>
+MENOR   	<
+MAYOR O IGUAL 	>=
+MENOR O IGUAL	<=
+
+COMPLEMENTARIOS
+---------------
+
+AND /  &&
+OR  / ||
+
+
+
+
+CONDICIONALES
+===============
+
+
+if(condicion){
+  la ejecucion	
+}
+
+
+if(condicion){
+  la ejecucion 1
+}else{
+  la ejecucion 2
+}
+
+
+
+
+
+
+RECEPCION POST
+==============
+
+$_POST['variable'];
+
+captura la información que viene desde un formulario, donde el atributo "name" del input, es igual a "variable"
+
+<input type="text" name="variable">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
