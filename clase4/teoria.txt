@@ -1,0 +1,65 @@
+condicional 2
+==============
+
+Sintaxis:
+
+if ($variable == Valor1) {
+	sentencias;
+} else if( $variable == Valor2) {
+	sentencias;
+} else if ($variable == Valor3) {
+	sentencias;
+} else {
+	sentencias;
+}
+
+
+ejercicio 1:
+============
+
+Sistema de precios:
+
+Un cliente requiere de un cotizador simple de precios de sus 4 productos:
+
+1. Ventilador usb (para pc)  S/.20.00
+2. Ventilador De pared       S/.130.00
+3. Ventilador de oficina     S/.245.00
+4. Ventilador industrial     S/.675.00 
+
+desarrollar un cotizador (formulario) que te muestre el precio al elegir un determinado producto	
+
+
+
+condicional switch
+====================
+
+switch (expresión) {
+        case valor1:
+        instrucciones;
+        break;
+ 
+        case valor2:
+        instrucciones;
+        break;
+        .
+        .
+        .
+        default:
+        sentencias;
+        break;
+ }
+
+loops (repeticiones)
+====================
+
+for($i=0; $i<$variable; $i++){
+
+	//expresión
+
+}
+
+
+
+
+
+
