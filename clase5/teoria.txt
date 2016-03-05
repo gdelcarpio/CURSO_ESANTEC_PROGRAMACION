@@ -1,0 +1,80 @@
+notas:
+=====
+
+NOTAS
+======
+
+break:  
+======
+break finaliza la ejecución de las estructuras:
+
+(loops) for, foreach, while, do-while 
+(condicional) switch en curso.
+
+
+
+
+die;
+====
+Para la secuencia en curso.
+
+
+echo simplificado
+=================
+
+<?php echo $dia_semana ?>
+equivale a
+
+<?= $dia_semana ?>
+
+
+
+----------------------------------------
+condicional
+
+switch
+======
+
+switch($variable){ 
+    
+    case 0:
+        echo "i es igual a 0";
+        break;
+
+    case 1:
+        echo "i es igual a 1";
+        break;
+
+    case 2:
+        echo "i es igual a 2";
+        break;
+}
+
+
+================ LOOPS ============
+
+
+FOR
+==
+
+sintaxis:
+
+for(comienzo; final; aumento){
+ //sentencia
+}
+
+ejemplo:
+
+for($i=0; $i<100; $i++){
+  echo "esto<br>";	
+}
+
+
+
+
+
+
+
+
+
+

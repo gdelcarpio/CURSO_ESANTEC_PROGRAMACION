@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sin título</title>
+</head>
+
+<body>
+<table width="200" border="1">
+  <tr>
+    <th>#</th>
+    <th>MES</th>
+    <th>AÑO</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Enero</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Febrero</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Marzo</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Abril</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Mayo</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Junio</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Julio</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Agosto</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Setiembre</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Octubre</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Noviembre</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Diciembre</td>
+    <td>2016</td>
+  </tr>
+</table>
+</body>
+</html>
