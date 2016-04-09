@@ -1,0 +1,9 @@
+documentacion: 
+http://php.net/manual/en/ref.strings.php
+
+
+substr(string,inicio,longitud)
+-  Devuelve parte de una cadena
+
+explode(delimitador,string);
+- Divide un string en varios string
