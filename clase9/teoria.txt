@@ -1,0 +1,26 @@
+
+//array indexado
+
+array('Julio', 'Alberto','Maria');
+
+
+//array asociativo
+
+array(nombre1=>'Julio', nombre2=>'Alberto',nombre3=>'Maria');
+
+funciones de array
+
+asort(array);  //ordenar los valores 
+arsort(array); //orden inverso de los valores
+ ksort(array);//orden en funcion a su clave
+krsort(array);//orden inverso en funcion a su clave 
+
+
+//loops para arrays
+
+	//--indexado
+
+		foreach(array){
+			
+		}
+
