@@ -1,0 +1,19 @@
+documentacion: 
+http://php.net/manual/en/ref.strings.php
+
+
+substr(string,inicio,longitud)
+-  Devuelve parte de una cadena
+
+explode(delimitador,string);
+- Divide un string en varios string
+
+number_format(numero,decimales, separacion decimal, separacion mil);
+- da formato a los numeros
+
+strtolower()
+- convierte en minusculas
+
+strtoupper()
+- convierte a mayusculas
+
