@@ -1,0 +1,6 @@
+Base de datos "bodega"
+tres tablas: 
+clientes, pedidos, pagos
+
+
+3 Formularios

@@ -1,0 +1,20 @@
+CRUD
+Create
+-INSERT INTO
+
+Read
+-SELECT * FROM
+
+Update
+- UPDATE
+
+Delete
+- DELETE
+
+//======================
+PASOS PARA EL CRUD
+
+1. Seleccionar servidor 
+2. Seleccionar base de datos
+3. Query - mandato a la base de datos
+4. Ejecución del query
